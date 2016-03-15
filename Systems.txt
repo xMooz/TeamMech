@@ -1,0 +1,32 @@
+Mech
+
+  Terms:
+    Point to Point
+      A system that connects objects together, directly.
+      Allows bypass.
+
+    Linear
+      A system that connects objects through a series of tubes.
+      Does not allow bypass.
+
+    Fluid based
+      When damaged, will leak fluid, rate increases if in use.
+      If all fluid is lost, system is rendered inoperable.
+
+    Pressure based
+      When damaged, function stops.
+
+  Core Systems:
+    Electrics
+      Point to Point FAST transmission
+      Tied to engine
+
+    Hydraulics
+      Linear SLOW transmission
+      Tied to engine
+      Fluid based
+
+    Pneumatics
+      Linear SLOW transmission
+      Tied to engine
+      Pressure based
